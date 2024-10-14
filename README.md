@@ -13,7 +13,10 @@ Questo progetto è stato sviluppato nell'ambito del corso di **Human-Computer In
 ### Fase Attuale del Progetto:
 
 **Needfinding (C1)** Siamo attualmente nella fase di **needfinding**, in cui raccogliamo informazioni sui bisogni degli utenti target e sulle loro abitudini riguardanti le scelte alimentari, la sostenibilità e il benessere. Questa fase include:
+
 - **Interviste** con diverse persone (es. giovani professionisti, famiglie, studenti, pensionati).
+
 - **Questionari** per raccogliere dati quantitativi su abitudini di acquisto e consapevolezza della sostenibilità.
+
 Il report della fase di needfinding è disponibile all'interno di questa repository nella directory **/C1**.
 La trascrizione delle interviste è nella directory **/C1/Interviste**.
