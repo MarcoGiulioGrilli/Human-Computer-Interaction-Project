@@ -1,22 +1,32 @@
 # Progetto di Human-Computer Interaction (HCI) - Alimentazione Sostenibile nelle Aree Urbane
 
-### Introduzione
+## Introduzione
+Questo progetto è stato sviluppato per il corso di Human-Computer Interaction (HCI) nell’a.a. 2024-2025, con l’obiettivo di promuovere il benessere urbano attraverso un sistema di alimentazione sostenibile.
 
-Questo progetto è stato sviluppato nell'ambito del corso di **Human-Computer Interaction** (HCI) a.a. 2024-2025, con l'obiettivo di esplorare e affrontare problematiche legate al benessere all'interno del contesto urbano, in particolare con riferimento all'alimentazione sostenibile.
+- **Problema**: Le città moderne rendono sempre più difficile l'accesso a cibo fresco e locale, spingendo i cittadini verso opzioni industriali che favoriscono obesità e malattie croniche.
+- **Utenti Target**: famiglie urbane, studenti, professionisti, agricoltori locali e mercati che mirano a fornire cibo sano e sostenibile.
+- **Missione**: Promuovere un sistema alimentare urbano sano, sostenibile e connesso.
 
-**Problema:** Le città moderne offrono sempre meno accesso a cibo fresco e locale, portando i cittadini a dipendere da opzioni alimentari industriali poco salutari. Questo stile di vita contribuisce all'aumento dell'obesità e delle malattie croniche.
+## Fasi del Progetto
 
-**Utenti Target:** famiglie urbane, studenti, professionisti, agricoltori locali, mercati che vogliono fornire a cibo sano e sostenibile.
+### Needfinding (C1)
+Questa fase si è concentrata sulla raccolta di informazioni sui bisogni e sulle abitudini alimentari degli utenti target, con attenzione alla sostenibilità e al benessere. Le attività principali in questa fase sono state:
+- **Interviste** con diversi gruppi di utenti (giovani professionisti, famiglie, studenti, pensionati) per ottenere insight qualitativi sui comportamenti e sulle preferenze alimentari.
+- **Questionari** per raccogliere dati quantitativi sulle abitudini di acquisto e sulla consapevolezza in tema di sostenibilità.
 
-**Missione:** La nostra missione è promuovere un sistema alimentare urbano più sano, sostenibile e connesso.
+I materiali relativi a questa fase si trovano nella directory `/C1`, con le trascrizioni delle interviste nella sottocartella `/C1/Interviste`.
 
-### Fase Attuale del Progetto:
+### Raffinamento (C2)
+Dopo il needfinding, siamo passati alla fase di **raffinamento** per approfondire i risultati e definire soluzioni adeguate. Le attività di questa fase includono:
 
-**Needfinding (C1)** Siamo attualmente nella fase di **needfinding**, in cui raccogliamo informazioni sui bisogni degli utenti target e sulle loro abitudini riguardanti le scelte alimentari, la sostenibilità e il benessere. Questa fase include:
+- **Focus Group**: un'intervista di gruppo ha permesso di esplorare più a fondo le opinioni degli utenti sui temi dell'alimentazione sostenibile, analizzando aspetti come il costo dei prodotti, l’imballaggio, la biodiversità, lo spreco alimentare e la convivialità.
+- **Brainstorming sui Bisogni degli Utenti**: il brainstorming ha evidenziato priorità per gli utenti, come la riduzione degli imballaggi, la trasparenza sulla provenienza dei prodotti, l’accessibilità economica e la necessità di informazioni chiare su certificazioni e origine dei prodotti.
+- **Definizione della Value Proposition**: sulla base delle esigenze degli utenti, è stata selezionata una soluzione chiave: la piattaforma **GoodBuy**. Questa piattaforma supporta scelte consapevoli degli utenti tramite:
+  - una mappa interattiva dei mercati locali,
+  - uno scanner per le etichette dei prodotti, che fornisce informazioni su qualità, sostenibilità e origine del prodotto.
 
-- **Interviste** con diverse persone (es. giovani professionisti, famiglie, studenti, pensionati).
+Tutti i materiali relativi alla fase di raffinamento sono disponibili nella directory `/C2`, incluse le trascrizioni del focus group e le conclusioni del brainstorming.
 
-- **Questionari** per raccogliere dati quantitativi su abitudini di acquisto e consapevolezza della sostenibilità.
+---
 
-Il report della fase di needfinding è disponibile all'interno di questa repository nella directory **/C1**.
-La trascrizione delle interviste è nella directory **/C1/Interviste**.
+Questo aggiornamento riflette il passaggio dal needfinding alla fase di raffinamento, con una descrizione dettagliata delle attività e delle soluzioni identificate per rispondere alle reali esigenze degli utenti.
