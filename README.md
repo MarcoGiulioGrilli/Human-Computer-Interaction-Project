@@ -37,13 +37,13 @@ La fase di **prototipazione** ha visto la definizione dei task principali e la c
 
 - **Analisi HTA**: ogni task è stato scomposto utilizzando il metodo di Hierarchical Task Analysis (HTA), evidenziando i passaggi necessari e le potenziali aree di miglioramento.
 
-- **Storyboard**: è stato creato uno storyboard che rappresenta un percorso realistico, intrecciando i task identificati. Lo storyboard mostra l'utente mentre consulta le certificazioni, scannerizza un prodotto al supermercato e successivamente utilizza la mappa per trovare un venditore locale.
+- **Storyboard**: è stato creato uno storyboard che rappresenta un percorso realistico, intrecciando i task identificati. Lo storyboard mostra l'utente mentre scannerizza un prodotto al supermercato e successivamente utilizza la mappa per trovare un venditore locale.
 
 - **Creazione dei Prototipi**: sono stati sviluppati due prototipi low fidelity utilizzando Figma:
-  - **Prototipo 1 (Web App)**: progettato per desktop e tablet, offre una visualizzazione chiara delle funzionalità principali, ma limita l’esperienza utente in mobilità.
+  - **Prototipo 1 (Sito web)**: progettato per desktop e tablet, offre una visualizzazione chiara delle funzionalità principali, ma limita l’esperienza utente in mobilità.
   - **Prototipo 2 (App Mobile)**: pensato per un utilizzo in movimento, consente una scansione rapida dei prodotti e un accesso immediato alla mappa interattiva.
 
-- **Scelta del Prototipo**: dopo aver confrontato i pro e contro di ciascun prototipo, è stata scelta l'app mobile come soluzione principale, per la sua praticità e per l’esperienza utente più fluida. Alcune funzionalità del sito web sono state comunque integrate nell'app per garantire una maggiore completezza.
+- **Scelta del Prototipo**: dopo aver confrontato i pro e contro di ciascun prototipo, è stata scelta l'app mobile come soluzione principale, per la sua praticità e per l’esperienza utente più fluida, mentre il sito web è stato mantenuto come strumento di supporto.
 
 I materiali relativi alla fase di prototipazione si trovano nella directory `/C3`, inclusi i file Figma dei prototipi e le analisi dettagliate dei task.
 
