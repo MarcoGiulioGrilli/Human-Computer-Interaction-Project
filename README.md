@@ -14,7 +14,7 @@ Questa fase si è concentrata sulla raccolta di informazioni sui bisogni e sulle
 - **Interviste** con diversi gruppi di utenti (giovani professionisti, famiglie, studenti, pensionati) per ottenere insight qualitativi sui comportamenti e sulle preferenze alimentari.
 - **Questionari** per raccogliere dati quantitativi sulle abitudini di acquisto e sulla consapevolezza in tema di sostenibilità.
 
-I materiali relativi a questa fase si trovano nella directory `/C1`, con le trascrizioni delle interviste nella sottocartella `/C1/Interviste`.
+I materiali relativi a questa fase si trovano nella directory `report/C1`, con le trascrizioni delle interviste nella sottocartella `report/C1/Interviste`.
 
 ### Raffinamento (C2)
 Dopo il needfinding, siamo passati alla fase di **raffinamento** per approfondire i risultati e definire soluzioni adeguate. Le attività di questa fase includono:
@@ -25,7 +25,7 @@ Dopo il needfinding, siamo passati alla fase di **raffinamento** per approfondir
   - una mappa interattiva dei mercati locali,
   - uno scanner per le etichette dei prodotti, che fornisce informazioni su qualità, sostenibilità e origine del prodotto.
 
-Tutti i materiali relativi alla fase di raffinamento sono disponibili nella directory `/C2`, incluse le trascrizioni del focus group e le conclusioni del brainstorming.
+Tutti i materiali relativi alla fase di raffinamento sono disponibili nella directory `report/C2`, incluse le trascrizioni del focus group e le conclusioni del brainstorming.
 
 ### Prototipazione (C3)
 La fase di **prototipazione** ha visto la definizione dei task principali e la creazione dei primi prototipi per la piattaforma GoodBuy. Le attività principali in questa fase includono:
@@ -45,7 +45,7 @@ La fase di **prototipazione** ha visto la definizione dei task principali e la c
 
 - **Scelta del Prototipo**: dopo aver confrontato i pro e contro di ciascun prototipo, è stata scelta l'app mobile come soluzione principale, per la sua praticità e per l’esperienza utente più fluida, mentre il sito web è stato mantenuto come strumento di supporto.
 
-I materiali relativi alla fase di prototipazione si trovano nella directory `/C3`, inclusi i file Figma dei prototipi e le analisi dettagliate dei task.
+I materiali relativi alla fase di prototipazione si trovano nella directory `report/C3`, inclusi i file Figma dei prototipi e le analisi dettagliate dei task.
 
 ---
 
