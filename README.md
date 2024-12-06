@@ -47,6 +47,20 @@ La fase di **prototipazione** ha visto la definizione dei task principali e la c
 
 I materiali relativi alla fase di prototipazione si trovano nella directory `report/C3`, inclusi i file Figma dei prototipi e le analisi dettagliate dei task.
 
+### Raffinamento Prototipi (C4)
+
+La fase di **Raffinamento Prototipi** rappresenta un passaggio cruciale per rendere concreti e funzionali i concetti elaborati durante la fase di prototipazione (C3). I prototipi sono stati portati a un livello di mid-high fidelity, con un’attenzione particolare al funzionamento delle task precedentemente definite e alla creazione di un’esperienza utente coerente e intuitiva.
+
+Il focus principale di questa fase è stato il miglioramento delle interazioni chiave e la simulazione di scenari d’uso realistici. Le task individuate in C3, tra cui la consultazione delle certificazioni, la scannerizzazione dei prodotti e la navigazione nella mappa interattiva, sono state integrate nei prototipi con maggiore dettaglio, permettendo un test più accurato delle funzionalità principali dell’applicazione.
+
+Il design è stato ulteriormente affinato per garantire una transizione fluida tra le diverse sezioni dell’app e per migliorare l’accessibilità. Elementi visivi, come pulsanti, icone e schemi cromatici, sono stati ottimizzati per fornire un’interfaccia chiara e intuitiva. L’obiettivo è quello di avvicinare l’esperienza simulata a quella di un’app reale, consentendo agli utenti di esplorare e comprendere pienamente le funzionalità offerte.
+
+Nella cartella `report/C4` sono inclusi due documenti fondamentali che sintetizzano i progressi e approfondiscono gli aspetti progettuali:
+ - **Documento di descrizione del prototipo**: descrive in modo dettagliato ogni funzionalità, illustrando i flussi di interazione e le scelte progettuali che guidano l’esperienza utente.
+ - **Documento per i valutatori esterni**: analizza come l’applicazione risponde ai bisogni e alle aspettative degli utenti identificati nelle fasi precedenti. Viene valutata l’efficacia delle soluzioni proposte in termini di utenti target, contesto d’uso, funzionalità principali e limitazioni.
+
+Questa fase consolida il lavoro svolto nelle precedenti iterazioni, ponendo le basi per ulteriori test e valutazioni. I prototipi mid-high fidelity non solo offrono un livello di dettaglio più elevato, ma rappresentano un mezzo efficace per comunicare il valore e il potenziale dell’applicazione. L’integrazione delle funzionalità e l’analisi approfondita della value proposition dimostrano come l’app possa rispondere in modo significativo alle esigenze degli utenti e contribuire a promuovere un sistema alimentare urbano più sostenibile e consapevole.
+
 ---
 
-Questo aggiornamento include le attività svolte nella fase di prototipazione, evidenziando i task principali e i prototipi creati, oltre a fornire informazioni sulla scelta finale del prototipo da sviluppare ulteriormente.
+Questo aggiornamento include le attività svolte nella fase di raffinamento del prototipo e creazione dei documenti informativi per valutatori esterni.

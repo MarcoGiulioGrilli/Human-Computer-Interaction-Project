@@ -633,7 +633,7 @@ progress {
 }
 
 .img-fluid {
-  width: 100%;
+  max-width: 100%;
   height: auto;
 }
 
@@ -11623,6 +11623,7 @@ html {
   max-width: 40rem;
 }
 .profile .profile-img {
+  width: 95%;
   height: 80vw;
   max-height: 45rem;
   position: absolute;
