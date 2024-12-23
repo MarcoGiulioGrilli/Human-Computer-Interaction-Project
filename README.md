@@ -59,8 +59,14 @@ Nella cartella `report/C4` sono inclusi due documenti fondamentali che sintetizz
  - **Documento di descrizione del prototipo**: descrive in modo dettagliato ogni funzionalità, illustrando i flussi di interazione e le scelte progettuali che guidano l’esperienza utente.
  - **Documento per i valutatori esterni**: analizza come l’applicazione risponde ai bisogni e alle aspettative degli utenti identificati nelle fasi precedenti. Viene valutata l’efficacia delle soluzioni proposte in termini di utenti target, contesto d’uso, funzionalità principali e limitazioni.
 
-Questa fase consolida il lavoro svolto nelle precedenti iterazioni, ponendo le basi per ulteriori test e valutazioni. I prototipi mid-high fidelity non solo offrono un livello di dettaglio più elevato, ma rappresentano un mezzo efficace per comunicare il valore e il potenziale dell’applicazione. L’integrazione delle funzionalità e l’analisi approfondita della value proposition dimostrano come l’app possa rispondere in modo significativo alle esigenze degli utenti e contribuire a promuovere un sistema alimentare urbano più sostenibile e consapevole.
+### Valutazione Euristica (C5)
+
+La fase di **Valutazione Euristica** rappresenta un passo fondamentale per l’analisi e il miglioramento del prototipo. Seguendo il metodo delle 10 euristiche di Nielsen, abbiamo svolto una valutazione strutturata per identificare eventuali problematiche nell’interfaccia e migliorare l’esperienza utente. Abbiamo prodotto due documenti distinti per questa fase:
+- **Valutazione Individuale**: Ogni membro del nostro gruppo ha condotto una valutazione indipendente del prototipo Park It Up! del gruppo NexusKnight. 
+- **Valutazione di Gruppo**: Successivamente, abbiamo combinato i risultati delle valutazioni individuali in un unico documento di gruppo, analizzando i problemi trovati e raggiungendo un consenso sulla loro classificazione e severità.
+
+Il documento della valutazione euristica di gruppo è disponibile nella cartella `report/C5`, i documenti individuali di valutazione sono invece ad uso esclusivo dei docenti e non sono resi disponibili.
 
 ---
 
-Questo aggiornamento include le attività svolte nella fase di raffinamento del prototipo e creazione dei documenti informativi per valutatori esterni.
+Questo aggiornamento include le attività svolte nella fase di valutazione del prototipo "Park it up!" dei NexusKnight.
