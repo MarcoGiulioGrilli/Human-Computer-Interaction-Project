@@ -67,6 +67,16 @@ La fase di **Valutazione Euristica** rappresenta un passo fondamentale per l’a
 
 Il documento della valutazione euristica di gruppo è disponibile nella cartella `report/C5`, i documenti individuali di valutazione sono invece ad uso esclusivo dei docenti e non sono resi disponibili.
 
+### User-Testing (C6)
+
+In questa fase, abbiamo sottoposto il nostro prototipo a **test pratici con utenti che non avevano mai visto né sentito parlare della nostra applicazione**. Lo scopo principale era quello di raccogliere feedback imparziale e valutare l’efficacia delle funzionalità principali. Gli utenti hanno eseguito task specifici, precedentemente definiti.
+
+Durante i test, abbiamo osservato il loro comportamento e raccolto dati sia qualitativi che quantitativi sulle difficoltà incontrate, le loro impressioni generali e i suggerimenti forniti. Successivamente, abbiamo analizzato questi dati per individuare i problemi principali e le aree di miglioramento, concentrandoci sulle funzionalità che richiedevano maggiore chiarezza o ottimizzazione.
+
+Inoltre, abbiamo confrontato i risultati dei test con gli obiettivi definiti nelle fasi precedenti per valutare se il prototipo rispondeva in modo efficace ai bisogni degli utenti. Questo processo ci ha permesso di identificare modifiche chiave per affinare ulteriormente il design e migliorare l’esperienza utente complessiva.
+
+I materiali relativi alla fase di User-Testing sono disponibili nella directory `report/C6`, incluso un documento di sintesi delle osservazioni, il protocollo usato durante i colloqui e una presentazione con la descrizione della procedura seguita per i test, i risultati e le principali raccomandazioni per il miglioramento del prototipo.
+
 ---
 
-Questo aggiornamento include le attività svolte nella fase di valutazione del prototipo "Park it up!" dei NexusKnight.
+Questo aggiornamento include le attività svolte nella fase di User-Testing del prototipo interattivo ad alta fedeltà.
