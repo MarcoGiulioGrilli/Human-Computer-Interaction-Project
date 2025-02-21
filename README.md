@@ -76,7 +76,3 @@ Durante i test, abbiamo osservato il loro comportamento e raccolto dati sia qual
 Inoltre, abbiamo confrontato i risultati dei test con gli obiettivi definiti nelle fasi precedenti per valutare se il prototipo rispondeva in modo efficace ai bisogni degli utenti. Questo processo ci ha permesso di identificare modifiche chiave per affinare ulteriormente il design e migliorare l’esperienza utente complessiva.
 
 I materiali relativi alla fase di User-Testing sono disponibili nella directory `report/C6`, incluso un documento di sintesi delle osservazioni, il protocollo usato durante i colloqui e una presentazione con la descrizione della procedura seguita per i test, i risultati e le principali raccomandazioni per il miglioramento del prototipo.
-
----
-
-Questo aggiornamento include le attività svolte nella fase di User-Testing del prototipo interattivo ad alta fedeltà.
